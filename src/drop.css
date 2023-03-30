@@ -1,0 +1,10 @@
+.list-header{
+    margin-left: 30px;
+    margin-right:30px;
+    margin-top: 30px;
+    background-color: beige;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 3px solid #0C7DE8;
+}
